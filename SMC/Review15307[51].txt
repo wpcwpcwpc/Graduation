@@ -1,0 +1,31 @@
+Reviewer 14 of SMC 2021 submission 250
+
+Comments to the author
+======================
+
+This paper proposed an attention-based residual network
+structure and applied it to the pyramid scene
+parsing network model. The model can infer the attention
+map in turn along the channel and spatial dimensions, then
+multiply the attention-map by the input feature map and
+input it to the residual network structure. The authors
+validated their model through experiments on data sets
+obtained and labeled from Beijing Children抯 Hospital. 
+
+The experimental part is strong but the novelty of the
+proposed method could be further reinforced.
+
+The authors are suggested to better define "lightness".
+本文提出了一种基于注意力的残差网络
+结构并将其应用于金字塔场景
+解析网络模型。 该模型可以推断注意力
+依次沿通道和空间维度映射，然后
+将注意力图乘以输入特征图和
+将其输入到残差网络结构中。 作者
+通过对数据集的实验验证了他们的模型
+从北京儿童医院获得并标记。
+
+实验性强但新颖
+建议的方法可以进一步加强。
+
+建议作者更好地定义“亮度”。 
